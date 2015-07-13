@@ -1,0 +1,6 @@
+#!/usr/bin/python
+
+database_host = 'localhost'
+database_name = ''
+database_user = ''
+database_password = ''
